@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2A2725</color>
+    <color name="colorPrimaryDark">#2A2725</color>
+    <color name="colorAccent">#2A2725</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTabbar">#222121</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorGray">#b8b8ba</color>
+    <color name="colorGrayLite">#d8d8da</color>
+
+    <color name="black">#000</color>
+    <color name="orange">#FA0</color>
+    <color name="white">#FFF</color>
+</resources>
